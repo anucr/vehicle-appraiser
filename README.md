@@ -1,2 +1,2 @@
 # vehicle-appraiser
-vehicale valuation software 
+Automated AI-powered vehicle valuation and damage detection software.
