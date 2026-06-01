@@ -1,0 +1,27 @@
+{
+    "Suzuki Alto": {
+        "base_lkr": 3800000.0,
+        "depreciation_per_year": 0.05,
+        "last_updated": "Fallback Mode"
+    },
+    "Suzuki Wagon R": {
+        "base_lkr": 6200000.0,
+        "depreciation_per_year": 0.04,
+        "last_updated": "Fallback Mode"
+    },
+    "Toyota Axio": {
+        "base_lkr": 10500000.0,
+        "depreciation_per_year": 0.04,
+        "last_updated": "Fallback Mode"
+    },
+    "Honda Vezel": {
+        "base_lkr": 12500000.0,
+        "depreciation_per_year": 0.05,
+        "last_updated": "Fallback Mode"
+    },
+    "Toyota Prius": {
+        "base_lkr": 14500000.0,
+        "depreciation_per_year": 0.06,
+        "last_updated": "Fallback Mode"
+    }
+}
